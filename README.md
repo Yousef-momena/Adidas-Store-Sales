@@ -49,7 +49,7 @@ The dashboard provides insights into:
 ### Dashboard Overview
 
 
-![Dashboard Overview 1](
+![Dashboard Overview 1](https://github.com/Yousef-momena/Adidas-Store-Sales/blob/main/dashboard1.jpeg?raw=true)
 ![Dashboard Overview 2](
 ![Dashboard Overview 3](
 ![Dashboard Overview 4](
