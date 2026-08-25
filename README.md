@@ -47,10 +47,11 @@ The dashboard provides insights into:
 
 ## 🖼️ Dashboard Preview
 
-### Dashboard Overview
 
 ![Dashboard Overview 1](https://drive.google.com/file/d/1JFCWuMXShobAzjnxa-k8ujqsoiEWZyY8/view?usp=drivesdk)
-
+![Dashboard Overview 2](https://drive.google.com/file/d/1ll0CRPzQGO4AHLr9YVau4UafBATvW368/view?usp=drivesdk)
+![Dashboard Overview 3](https://drive.google.com/file/d/1Rha4mjdRAjX1arUfS_SIcU1PPbMIZOnq/view?usp=drivesdk)
+![Dashboard Overview 4](https://drive.google.com/file/d/19UY32KIX9QA6qi9NtkcC9RPn0k3luftN/view?usp=drivesdk)
 
 
 
