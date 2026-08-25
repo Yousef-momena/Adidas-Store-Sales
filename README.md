@@ -51,7 +51,7 @@ The dashboard provides insights into:
 
 ![Dashboard Overview 1](https://github.com/Yousef-momena/Adidas-Store-Sales/blob/main/dashboard1.jpeg?raw=true)
 ![Dashboard Overview 2](https://github.com/Yousef-momena/Adidas-Store-Sales/blob/main/dashboard2.jpeg?raw=true)
-![Dashboard Overview 3](
+![Dashboard Overview 3](https://github.com/Yousef-momena/Adidas-Store-Sales/blob/main/dashboard3.jpeg?raw=true)
 ![Dashboard Overview 4](
 
 
