@@ -49,10 +49,10 @@ The dashboard provides insights into:
 ### Dashboard Overview
 
 
-![Dashboard Overview 1]("D:\Addidas Store Sales Power Bi\dashboard1.jpeg")
-![Dashboard Overview 2]("D:\Addidas Store Sales Power Bi\dashboard2.jpeg")
-![Dashboard Overview 3]("D:\Addidas Store Sales Power Bi\dashboard3.jpeg")
-![Dashboard Overview 4]("D:\Addidas Store Sales Power Bi\dashboard4.jpeg")
+![Dashboard Overview 1](
+![Dashboard Overview 2](
+![Dashboard Overview 3](
+![Dashboard Overview 4](
 
 
 
