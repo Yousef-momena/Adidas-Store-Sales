@@ -49,10 +49,10 @@ The dashboard provides insights into:
 
 ### Dashboard Overview
 
-![Dashboard Overview](Images/dashboard1.png)
-![Dashboard Overview](Images/dashboard2.png)
-![Dashboard Overview](Images/dashboard3.png)
-![Dashboard Overview](Images/dashboard4.png)
+![Dashboard Overview](Images/dashboard1.jpeg)
+![Dashboard Overview](Images/dashboard2.jpeg)
+![Dashboard Overview](Images/dashboard3.jpeg)
+![Dashboard Overview](Images/dashboard4.jpeg)
 
 
 
@@ -60,7 +60,7 @@ The dashboard provides insights into:
 
 ## 🎥 Project Demo
 
-[Watch the Project Video]([YOUR_VIDEO_LINK](https://drive.google.com/file/d/1jc-Faf4NI1KnRKpZTDpDmgYNE1zweKSx/view?usp=drivesdk))
+[Watch the Project Video](https://drive.google.com/file/d/1jc-Faf4NI1KnRKpZTDpDmgYNE1zweKSx/view?usp=drivesdk)
 
 ---
 
